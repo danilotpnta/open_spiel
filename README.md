@@ -1,7 +1,7 @@
 
 # OpenSpiel: A Framework for Reinforcement Learning in Games
 
-> **_NOTE:_**  This fork is the boilplate for the Machine Learning: Project at KU Leuven, Faculty of Engineering, Department of Computer Science. For full results about the project visit: [Link](https://github.com/danilotpnta/MachineLearning) 
+> **_NOTE:_**  This fork is the boilplate for the Machine Learning Project at KU Leuven, Faculty of Engineering, Department of Computer Science. For full details visit: [Link](https://github.com/danilotpnta/MachineLearning) 
 <p align="center">
   <img src="docs/_static/OpenSpielB.png" alt="OpenSpiel visual asset">
 </p>
