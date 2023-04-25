@@ -1,6 +1,11 @@
 
 # OpenSpiel: A Framework for Reinforcement Learning in Games
 
+> **_NOTE:_**  This fork is the boilplate for the Machine Learning: Project at KU Leuven, Faculty of Engineering, Department of Computer Science. For full results about the project visit: [Link](https://github.com/danilotpnta/MachineLearning) 
+<p align="center">
+  <img src="docs/_static/OpenSpielB.png" alt="OpenSpiel visual asset">
+</p>
+
 [![Documentation Status](https://readthedocs.org/projects/openspiel/badge/?version=latest)](https://openspiel.readthedocs.io/en/latest/?badge=latest)
 ![build_and_test](https://github.com/deepmind/open_spiel/workflows/build_and_test/badge.svg)
 
@@ -16,10 +21,6 @@ natural extensions. The core API and games are implemented in C++ and exposed to
 Python. Algorithms and tools are written both in C++ and Python.
 
 To try OpenSpiel in Google Colaboratory, please refer to `open_spiel/colabs` subdirectory or start [here](https://colab.research.google.com/github/deepmind/open_spiel/blob/master/open_spiel/colabs/install_open_spiel.ipynb).
-
-<p align="center">
-  <img src="docs/_static/OpenSpielB.png" alt="OpenSpiel visual asset">
-</p>
 
 # Index
 
